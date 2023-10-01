@@ -79,7 +79,7 @@ function random_on_click() {
 }
 
 /* Event Listeners */
-// Add event listeners for each button
+// event listeners for each button
 noun1Button.addEventListener("click", noun1_on_click);
 verbButton.addEventListener("click", verb_on_click);
 adjectiveButton.addEventListener("click", adjective_on_click);
@@ -99,8 +99,7 @@ playbackButton.addEventListener("click", function () {
 });
 
 });
-/* Event Listeners
--------------------------------------------------- */
+
 
 
 
